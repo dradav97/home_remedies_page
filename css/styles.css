@@ -218,3 +218,29 @@ html {
     height: 30px;
     border-radius: 5px;
 }
+
+/* medicos complejos*/
+.left {
+    display: flex;
+    text-align: left;
+    text-decoration: none;
+    margin-left: 80px;
+    flex-direction: column; 
+}
+
+.container-texto {
+    text-align: left;
+}
+
+.homeopatia-img {
+    width: 20%;
+}
+.naturoterapia-img {
+    width: 40%;
+}
+
+.texto-izquierda {
+    text-align: left;
+    margin-left: 20px;
+
+}
